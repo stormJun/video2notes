@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+
+materials/
+work/
+logs/
+notes/
+notes_from0_rl_value_20260315/
